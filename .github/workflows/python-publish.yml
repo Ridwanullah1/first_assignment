@@ -1,0 +1,7 @@
+print ( ' team tesla represent HackBio 2020 first assignment <3' , end= ' \n *  ' )
+print ( ' My name is Abubakar Ridwanullah ' , end= ' \n * ' )
+print ( ' My email is abubakarridwanullah@gmail.com ' , end= ' \n * ' )
+print ( ' My script language is python ' , end= ' \n * ' )
+print ( ' My Biostack is genomics ' , end= ' \n * ' )
+print ( ' My username is Ridwanullah ' )
+print( ' thank you ' )
